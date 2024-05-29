@@ -13,6 +13,8 @@ mainSections = ['posts']
 disableSpecial1stPost = true
 defaultTheme = 'light'
 
+ShowPostNavLinks = true
+
 [taxonomies]
 tag = 'tags'
 season = 'seasons'
