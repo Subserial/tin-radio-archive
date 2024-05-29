@@ -27,7 +27,7 @@
 
 {{ end }}
 
-{{/* Copied from PaperMod layouts/_default/single.md */}}
+{{/* Modified from PaperMod layouts/_default/single.md */}}
 
 <article class="post-single">
   <header class="post-header">
@@ -75,6 +75,13 @@
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+    {{/* Seasons! This is a bit of a lazy edit. */}}
+    {{- $seasons := "seasons" }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms $seasons) }}
       <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>

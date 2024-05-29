@@ -1,0 +1,63 @@
+The Basement;Joseph's Show;2022-03-15;https://spinitron.com/WVUD-HD2/pl/15577983/Joseph-s-show
+The Basement;Joseph's Show;2022-03-22;https://spinitron.com/WVUD-HD2/pl/15634815/Joseph-s-show
+The Basement;Joseph's Show;2022-04-05;https://spinitron.com/WVUD-HD2/pl/15749997/Joseph-s-show
+The Basement;Joseph's Show;2022-04-12;https://spinitron.com/WVUD-HD2/pl/15808492/Joseph-s-show
+The Basement;Joseph's Show;2022-04-19;https://spinitron.com/WVUD-HD2/pl/15867079/Joseph-s-show
+The Basement;Joseph's Show;2022-04-26;https://spinitron.com/WVUD-HD2/pl/15900005/Joseph-s-show
+The Basement;Joseph's Show;2022-05-03;https://spinitron.com/WVUD-HD2/pl/15926168/Joseph-s-show
+The Basement;Joseph's Show;2022-05-10;https://spinitron.com/WVUD-HD2/pl/15952558/Joseph-s-show
+The Basement;Joseph's Show;2022-05-17;https://spinitron.com/WVUD-HD2/pl/15977108/Joseph-s-show
+The Basement;Joseph's Show;2022-09-04;https://spinitron.com/WVUD-HD2/pl/16381351/Joseph-s-show
+The Basement;Joseph's Show;2022-09-18;https://spinitron.com/WVUD-HD2/pl/16433646/Joseph-s-show
+The Basement;Joseph's Show;2022-10-02;https://spinitron.com/WVUD-HD2/pl/16487254/Joseph-s-show
+The Basement;Joseph's Show;2022-10-09;https://spinitron.com/WVUD-HD2/pl/16514254/Joseph-s-show
+The Basement;Joseph's Show;2022-10-16;https://spinitron.com/WVUD-HD2/pl/16541019/Joseph-s-show
+The Basement;Joseph's Show;2022-10-30;https://spinitron.com/WVUD-HD2/pl/16594512/Joseph-s-show
+The Basement;Joseph's Show;2022-11-13;https://spinitron.com/WVUD-HD2/pl/16649839/Joseph-s-show
+The Basement;Joseph's Show;2022-11-27;https://spinitron.com/WVUD-HD2/pl/16703650/Joseph-s-show
+The Basement;Joseph's Show;2022-12-04;https://spinitron.com/WVUD-HD2/pl/16730665/Joseph-s-show
+WVUD;Joseph's Show;2023-02-06;https://spinitron.com/WVUD/pl/16973688/Joseph-s-Show
+WVUD;Joseph's Show;2023-02-13;https://spinitron.com/WVUD/pl/17002287/Joseph-s-Show
+WVUD;Joseph's Show;2023-02-20;https://spinitron.com/WVUD/pl/17029283/Joseph-s-Show
+WVUD;Joseph's Show;2023-02-27;https://spinitron.com/WVUD/pl/17058710/Joseph-s-Show
+WVUD;Joseph's Show;2023-03-06;https://spinitron.com/WVUD/pl/17087791/Joseph-s-Show
+WVUD;Joseph's Show;2023-03-13;https://spinitron.com/WVUD/pl/17113356/Joseph-s-Show
+WVUD;Joseph's Show;2023-03-20;https://spinitron.com/WVUD/pl/17143970/Joseph-s-Show
+WVUD;Joseph's Show;2023-04-03;https://spinitron.com/WVUD/pl/17201466/Joseph-s-Show
+WVUD;Joseph's Show;2023-04-10;https://spinitron.com/WVUD/pl/17230459/Joseph-s-Show
+WVUD;Joseph's Show;2023-04-17;https://spinitron.com/WVUD/pl/17259107/Joseph-s-Show
+WVUD;Joseph's Show;2023-04-24;https://spinitron.com/WVUD/pl/17288269/Joseph-s-Show
+WVUD;Joseph's Show;2023-05-01;https://spinitron.com/WVUD/pl/17318162/Joseph-s-Show
+WVUD;Joseph's Show;2023-05-08;https://spinitron.com/WVUD/pl/17346810/Joseph-s-Show
+WVUD;Joseph's Show;2023-05-15;https://spinitron.com/WVUD/pl/17375274/Joseph-s-Show
+WVUD;Joseph's Show;2023-05-22;https://spinitron.com/WVUD/pl/17403604/Joseph-s-Show
+WVUD;Tin Radio;2023-08-31;https://spinitron.com/WVUD/pl/17816279/Tin-Radio
+WVUD;Tin Radio;2023-09-07;https://spinitron.com/WVUD/pl/17846428/Tin-Radio
+WVUD;Tin Radio;2023-09-14;https://spinitron.com/WVUD/pl/17876851/Tin-Radio
+WVUD;Tin Radio;2023-09-21;https://spinitron.com/WVUD/pl/17907417/Tin-Radio
+WVUD;Tin Radio;2023-10-05;https://spinitron.com/WVUD/pl/17969949/Tin-Radio
+WVUD;Tin Radio;2023-10-12;https://spinitron.com/WVUD/pl/18001610/Tin-Radio
+WVUD;Tin Radio;2023-10-19;https://spinitron.com/WVUD/pl/18032699/Tin-Radio
+WVUD;Tin Radio;2023-10-26;https://spinitron.com/WVUD/pl/18059217/Tin-Radio
+WVUD;Tin Radio;2023-11-02;https://spinitron.com/WVUD/pl/18095505/Tin-Radio
+WVUD;Tin Radio;2023-11-09;https://spinitron.com/WVUD/pl/18127253/Tin-Radio
+WVUD;Tin Radio;2023-11-30;https://spinitron.com/WVUD/pl/18219742/Tin-Radio
+WVUD;Tin Radio;2023-12-07;https://spinitron.com/WVUD/pl/18250749/Tin-Radio
+WVUD;Tin Radio;2023-12-14;https://spinitron.com/WVUD/pl/18282051/Tin-Radio
+WVUD;Tin Radio;2024-01-31;https://spinitron.com/WVUD/pl/18488581/Tin-Radio
+WVUD;Tin Radio;2024-02-07;https://spinitron.com/WVUD/pl/18520692/Tin-Radio
+WVUD;Tin Radio;2024-02-14;https://spinitron.com/WVUD/pl/18552967/Tin-Radio
+WVUD;Tin Radio;2024-02-21;https://spinitron.com/WVUD/pl/18584977/Tin-Radio
+WVUD;Tin Radio;2024-02-28;https://spinitron.com/WVUD/pl/18617080/Tin-Radio
+WVUD;Tin Radio;2024-03-06;https://spinitron.com/WVUD/pl/18649702/Tin-Radio
+WVUD;Tin Radio;2024-03-20;https://spinitron.com/WVUD/pl/18713066/Tin-Radio
+WVUD;Tin Radio;2024-03-27;https://spinitron.com/WVUD/pl/18745190/Tin-Radio
+WVUD;Tin Radio;2024-04-03;https://spinitron.com/WVUD/pl/18777130/Tin-Radio
+WVUD;Tin Radio;2024-04-10;https://spinitron.com/WVUD/pl/18810791/Tin-Radio
+WVUD;Tin Radio;2024-04-17;https://spinitron.com/WVUD/pl/18843404/Tin-Radio
+WVUD;Tin Radio;2024-04-24;https://spinitron.com/WVUD/pl/18875944/Tin-Radio
+WVUD;Tin Radio;2024-05-01;https://spinitron.com/WVUD/pl/18909039/Tin-Radio
+WVUD;Tin Radio;2024-05-08;https://spinitron.com/WVUD/pl/18940885/Tin-Radio
+WVUD;Tin Radio;2024-05-15;https://spinitron.com/WVUD/pl/18973396/Tin-Radio
+WVUD;Tin Radio;2024-05-22;https://spinitron.com/WVUD/pl/19004122/Tin-Radio
+

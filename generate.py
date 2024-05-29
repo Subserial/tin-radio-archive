@@ -6,24 +6,43 @@ from string import Template
 template = Template("""+++
 title = "${name}"
 date = ${isodate}
-tags = ["Season ${season}", "The Basement", "WVUD", "Joseph's Show", "Tin Radio", "2021"]
+tags = [${tags}]
+seasons = ["Season ${season}"]
+seasons_weight = ${episode}
 +++
 
 {{% audio src="/sets/${filename}" %}}
 
-Scheduled as Joseph's Show on September 7th, 2021
-Scheduled as Tin Radio on September 7th, 2021
+${show} on ${longdate}
 
-Aired from 91.3 WVUD HD-2: The Basement U of D Student Radio
-Aired from 91.3 WVUD: The Voice of the University of Delaware
+Aired on ${stationdesc}
 
-Playlist/Spinitron: https://spinitron.com/WVUD-HD2/pl/14064543/Joseph-s-show
+Playlist/Spinitron: ${spinlink}
 """)
 
 with open("names.txt", "r") as file:
     titles = file.readlines()
+with open("data.txt", "r") as file:
+    data = file.readlines()
 
-for title in titles:
+for i in range(len(titles)):
+    title = titles[i].strip()
+    datum = data[i]
+    info = datum.split(';')
+    station, show, date, link = info
+    rawdate = datetime.datetime.fromisoformat(date)
+    day = rawdate.day.real
+    end = "th"
+    if day % 10 == 1:
+        end = "st"
+    elif day % 10 == 2:
+        end = "nd"
+    airdate = rawdate.strftime(f"%A, %B {day}{end}, %Y")
+    airyear = rawdate.strftime("%Y")
+    airloc = "91.3 WVUD: The Voice of the University of Delaware"
+    if station == "The Basement":
+        airloc = "91.3 WVUD HD-2: The Basement U of D Student Radio"
+
     target = (title.lower()
               .replace(" ", "_")
               .replace("(", "")
@@ -33,12 +52,21 @@ for title in titles:
     name = ' '.join(parts[5:]).strip()
     season = int(parts[2][1:])
     episode = int(parts[3][1:])
-    isodate = (datetime.datetime.now() + datetime.timedelta(0, 3600 * (season + 9) + 120 * episode)).isoformat()
+    gendate = datetime.datetime.fromisoformat("2024-05-28")
+    isodate = (gendate + datetime.timedelta(0, 3600 * (season + 9) + 120 * episode)).isoformat()
+    tags = ', '.join([f"\"{tag}\"" for tag in [station, show, airyear]])
     content = template.substitute(
         name=name,
-        season=season,
-        filename=target,
         isodate=isodate,
+        tags=tags,
+        season=season,
+        year=airyear,
+        episode=episode,
+        filename=target,
+        show=show,
+        longdate=airdate,
+        stationdesc=airloc,
+        spinlink=link,
     )
     season_dir = f"content/posts/s{season}"
     filename = f"content/posts/s{season}/e{episode}.md"

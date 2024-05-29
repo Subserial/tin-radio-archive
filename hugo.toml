@@ -1,0 +1,21 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Tin Radio Archive'
+theme = [
+    'hugo-shortcode-roneo-collection', # Audio player
+    'hugo-PaperMod'
+]
+
+[params]
+env = 'production'
+
+mainSections = ['posts']
+disableSpecial1stPost = true
+defaultTheme = 'light'
+
+[taxonomies]
+tag = 'tags'
+season = 'seasons'
+
+[markup.goldmark.renderer]
+unsafe = true

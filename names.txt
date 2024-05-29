@@ -1,13 +1,12 @@
-Tin Radio S1 E10 - Sophomore Year in Music
 Tin Radio S1 E2 - The Denver Airport + Winter
 Tin Radio S1 E3 - People's Favorite Songs 1
 Tin Radio S1 E4 - Spring (Higher Quality)
-Tin Radio S1 E4 - Spring
 Tin Radio S1 E5 - Uplifting Songs
 Tin Radio S1 E6 - People's Favorite Songs 2
 Tin Radio S1 E7 - Requests
 Tin Radio S1 E8 - Alternate Universe Radio
 Tin Radio S1 E9 - People's Favorite Songs 3
+Tin Radio S1 E10 - Sophomore Year in Music
 Tin Radio S2 E1 - Camp
 Tin Radio S2 E2 - Movies with Rory (Clean)
 Tin Radio S2 E3 - Comfort Songs
@@ -18,12 +17,6 @@ Tin Radio S2 E7 - Apocalypse Radio
 Tin Radio S2 E8 - Christmas
 Tin Radio S2 E9 - Sufjan Spectacular
 Tin Radio S3 E1 - 2022 (Songs Only)
-Tin Radio S3 E10 - Sci-fi
-Tin Radio S3 E11 - Fantasy
-Tin Radio S3 E11 - Songs That Sound Huge
-Tin Radio S3 E12 - It's Someone's Favorite Song FM
-Tin Radio S3 E13 - Junior Year Fall Semester
-Tin Radio S3 E14 - Junior Year Spring Semester
 Tin Radio S3 E2 - Astral Projection (Songs Only)
 Tin Radio S3 E3 - Plunderphonics (Songs Only)
 Tin Radio S3 E4 - The Best Day Ever (Songs Only)
@@ -32,11 +25,13 @@ Tin Radio S3 E6 - Top 40 Part 2
 Tin Radio S3 E7 - Genre Tourism with Neil
 Tin Radio S3 E8 - Catharsis
 Tin Radio S3 E9 - Songs About Religion That Don't Suck
+Tin Radio S3 E10 - Sci-fi
+Tin Radio S3 E11 - Fantasy
+Tin Radio S3 E11 - Songs That Sound Huge
+Tin Radio S3 E12 - It's Someone's Favorite Song FM
+Tin Radio S3 E13 - Junior Year Fall Semester
+Tin Radio S3 E14 - Junior Year Spring Semester
 Tin Radio S4 E1 - What I Did Over Break
-Tin Radio S4 E10 - Storytelling
-Tin Radio S4 E11 - The Graduation Special
-Tin Radio S4 E12 - Ghost of Christmas Simultaneously Occurring
-Tin Radio S4 E13 - Senior Year Fall Semester
 Tin Radio S4 E2 - Summer Drifts Away
 Tin Radio S4 E3 - The Return of People's Favorite Songs
 Tin Radio S4 E4 - Live Performances
@@ -45,14 +40,11 @@ Tin Radio S4 E6 - Coming of Age
 Tin Radio S4 E7 - The Search for the Best Song Ever
 Tin Radio S4 E8 - Return to Halloween Tin 2
 Tin Radio S4 E9 - The Pony Episode
+Tin Radio S4 E10 - Storytelling
+Tin Radio S4 E11 - The Graduation Special
+Tin Radio S4 E12 - Ghost of Christmas Simultaneously Occurring
+Tin Radio S4 E13 - Senior Year Fall Semester
 Tin Radio S5 E1 - Best Songs of 2023
-Tin Radio S5 E10 - It's Me + You + We Are All Together's Favorite Song
-Tin Radio S5 E11 - The Party Episode
-Tin Radio S5 E12 - Final Requests
-Tin Radio S5 E13 - A History of College (The Beginning)
-Tin Radio S5 E14 - A History of the Present
-Tin Radio S5 E15 - Favorite Song Finale
-Tin Radio S5 E16 - All the Songs I Missed
 Tin Radio S5 E2 - Best Songs of 2023 Pt. 2
 Tin Radio S5 E3 - Valentin's Day Special (Love Songs)
 Tin Radio S5 E4 - Breakup Episode
@@ -61,3 +53,10 @@ Tin Radio S5 E6 - Freshman Year Music Taste
 Tin Radio S5 E7 - Sophomore Year Music Taste
 Tin Radio S5 E8 - At the Movies
 Tin Radio S5 E9 - Midshow Crisis
+Tin Radio S5 E10 - It's Me + You + We Are All Together's Favorite Song
+Tin Radio S5 E11 - The Party Episode
+Tin Radio S5 E12 - Final Requests
+Tin Radio S5 E13 - A History of College (The Beginning)
+Tin Radio S5 E14 - A History of the Present
+Tin Radio S5 E15 - Favorite Song Finale
+Tin Radio S5 E16 - All the Songs I Missed
