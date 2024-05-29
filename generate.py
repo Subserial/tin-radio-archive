@@ -11,7 +11,7 @@ seasons = ["Season ${season}"]
 seasons_weight = ${episode}
 +++
 
-{{% audio src="/sets/${filename}" %}}
+{{% audio src="https://tin-radio-files.storage.googleapis.com/${filename}" %}}
 
 ${show} on ${longdate}
 
