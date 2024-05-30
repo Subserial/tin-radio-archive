@@ -1,3 +1,5 @@
+!**/.keep
 public/**
 resources/**
+content/posts/**
 .hugo_build.lock

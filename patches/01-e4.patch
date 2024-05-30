@@ -1,0 +1,14 @@
+diff --git b/content/posts/s1/e4.md a/content/posts/s1/e4.md
+index b6e86b5..d5b4b49 100644
+--- b/content/posts/s1/e4.md
++++ a/content/posts/s1/e4.md
+@@ -8,6 +8,9 @@ seasons_weight = 4
+ 
+ {{% audio src="https://tin-radio-files.storage.googleapis.com/tin_radio_s1_e4_-_spring.mp3" %}}
+ 
++Higher quality (starts later):
++{{% audio src="https://tin-radio-files.storage.googleapis.com/tin_radio_s1_e4_-_spring_higher_quality.mp3" %}}
++
+ Joseph's Show on Tuesday, April 5th, 2022
+ 
+ Aired on 91.3 WVUD HD-2: The Basement U of D Student Radio
