@@ -60,4 +60,4 @@ WVUD;Tin Radio;2024-05-01;https://spinitron.com/WVUD/pl/18909039/Tin-Radio
 WVUD;Tin Radio;2024-05-08;https://spinitron.com/WVUD/pl/18940885/Tin-Radio
 WVUD;Tin Radio;2024-05-15;https://spinitron.com/WVUD/pl/18973396/Tin-Radio
 WVUD;Tin Radio;2024-05-22;https://spinitron.com/WVUD/pl/19004122/Tin-Radio
-
+WVUD;Tin Radio;2024-05-29;https://spinitron.com/WVUD/pl/19030022/Tin-Radio
